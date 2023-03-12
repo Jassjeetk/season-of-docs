@@ -229,3 +229,4 @@
 > Samson Adesanoye | (Portfolio)[https://linktr.ee/kingzamzon] | API documentation, JavaScript, Python, Go, PHP, Crypto, Blockchain, Solidity, EVM, Smart Contract, Web3, DevOps, Docker, Kubernetes, Blogs, Open to learn.
 > Başar Yücel | [My Profile](www.linkedin.com/in/basaryucell) | API Docs, User Guides, Earthquake Engineering, Python, Matlab
 > Sumit Mukharjee | <ul><li>(Portfolio) [https://linkfree.eddiehub.io/sumitishere]</li><li>(Hashnode)[https://sumitmukharjii.hashnode.dev/]</li></ul> | JavaScript, Go, Java, Open Source, HTML, CSS, React, Kotlin, Android, Blogs, Open Source, Open to learn, DevOps
+> Jassjeet Kaur | <ul><li> (Profile) [https://www.linkedin.com/in/jassjeet-kaur/] | API Documentation, User Guide, Markdown, Blogging, How to Guides
